@@ -16,7 +16,6 @@
 
 # 📖 Decode Morse Code <a name="about-project"></a>
 
-
 **Decode-Morse-Code** is a ruby script that decodes morse code.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -41,6 +40,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
 no live demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -48,7 +48,6 @@ no live demo
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -62,7 +61,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/kimitawanjohi/decode-morse-code.git
+  git clone https://github.com/osmanwako/decodemorse.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -70,7 +69,6 @@ Clone this repository to your desired folder:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 **Kimita Wanjohi**
 
@@ -88,7 +86,6 @@ Clone this repository to your desired folder:
 - GitHub: [@osmanwako](https://github.com/osmanwako)
 - Twitter: [@osmanWakow](https://twitter.com/osmanwakow)
 - LinkedIn :[@osmanWako](https://www.linkedin.com/in/osmanwako/)
-
 
 <!-- TODO ADD OTHER CONTRIBUTERS -->
 
@@ -108,7 +105,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project please give it a ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -118,7 +114,5 @@ If you like this project please give it a ⭐️!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
